@@ -1,4 +1,4 @@
-#include "main.h"
+#include "garlinsk.h"
 /**
  * print_character - prints character
  * @arg: va_list parameter

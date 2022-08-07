@@ -1,4 +1,4 @@
-#include "main.h"
+#include "garlinsk.h"
 /**
  *_printf - printf
  *@format: const char pointer

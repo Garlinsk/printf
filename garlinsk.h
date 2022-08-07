@@ -1,5 +1,5 @@
-#ifndef HEADER_MAIN
-#define HEADER_MAIN
+#ifndef HEADER_GARLINSK
+#define HEADER_GARLINSK
 #include <stdarg.h>
 int _putchar(char c);
 void _puts(char *str);
