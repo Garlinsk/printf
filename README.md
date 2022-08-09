@@ -105,4 +105,5 @@ All the above options work well together.
 
 Authors ©
  Franklin Kuloba,
+ 
  Gerald Rotich
